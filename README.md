@@ -4,34 +4,31 @@
 高性能RISC-V基础数学库
 
 #### 软件架构
-软件架构说明
+函数源码皆由RISC-V汇编指令直接实现，共69个函数，其中包含67个典型函数和2个内部调用函数，67个函数的平均性能为85节拍
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  使用环境：Ubuntu 20.04.3 LTS，遵循RVV-0.10规范的指令功能模拟器SPIKE功能模拟器
+2.  使用工具链：https://github.com/riscv-collab/riscv-gnu-toolchain
+3.  编译选项：遵循正常编译执行选项-march=rv64gcv和设置向量指令一次处理元素位数选项以及向量寄存器位数设置选项
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  编写测试程序
+2.  调用汇编函数
+3.  链接编译执行
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1. Li Fei
+2. Xu Jinchen
+3. Cao Hao
+4. Hao Jiangwei
+5. Song Guanghui
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 说明
+
+1.  If you find any problems, please leave a message
