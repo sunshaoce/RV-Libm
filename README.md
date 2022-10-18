@@ -20,12 +20,12 @@
 3.  链接编译执行
 
 #### 主要贡献
-
-1. Xu Jinchen (E-mail: atao728208@126.com)
-2. Li Fei
-3. Cao Hao
-4. Hao Jiangwei
-5. Song Guanghui
+ 
+1. Li Fei
+2. Cao Hao
+3. Hao Jiangwei
+4. Song Guanghui
+5. Xu Jinchen (E-mail: atao728208@126.com)
 
 
 
