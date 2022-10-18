@@ -19,10 +19,10 @@
 2.  调用汇编函数
 3.  链接编译执行
 
-#### 参与贡献
+#### 主要贡献
 
-1. Li Fei
-2. Xu Jinchen
+1. Xu Jinchen(E-mail: atao728208@126.com)
+2. Li Fei
 3. Cao Hao
 4. Hao Jiangwei
 5. Song Guanghui
