@@ -21,7 +21,7 @@
 
 #### 主要贡献
 
-1. Xu Jinchen(E-mail: atao728208@126.com)
+1. Xu Jinchen (E-mail: atao728208@126.com)
 2. Li Fei
 3. Cao Hao
 4. Hao Jiangwei
